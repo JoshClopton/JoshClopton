@@ -5,7 +5,6 @@ Welcome to my profile! I'm a full-stack developer that is based out of Californi
 * Back End Development: Express, Node, MySQL
 * Libraries: React-Router-Dom, ReactJS-Popup
 
-
 <p align="center">
   <a href="https://skillicons.dev/%22%3E
     <img src="https://skillicons.dev/icons?i=react,redux,html,css,sass,js,nodejs,express,mysql,git,figma" />
