@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi I'm Josh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="24px" width="24px">
 
-<!--
-**JoshClopton/JoshClopton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! I'm a full-stack developer that is based out of California. Talk to me about: 
+* Front-End Development: React, HTML5, CSS3, SASS
+* Back End Development: Express, Node, MySQL
+* Libraries: React-Router-Dom, ReactJS-Popup
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev/%22%3E
+    <img src="https://skillicons.dev/icons?i=react,redux,html,css,sass,js,nodejs,express,mysql,git,figma" />
+  </a>
+</p>
+
+<details>
+<summary>Github Metrics ⚡</summary>
+
+<p align="center">
+    <img src="/github-metrics.svg" />
+</p>
+</details>
