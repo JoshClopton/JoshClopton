@@ -1,4 +1,4 @@
-## Hi I'm Josh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="24px" width="24px">
+## Hi I'm Josh
 
 Welcome to my profile! I'm a full-stack developer that is based out of California. Talk to me about: 
 * Front-End Development: React, HTML5, CSS3, SASS
