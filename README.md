@@ -1,4 +1,4 @@
-## Hi I'm Josh
+## Hey there, I'm Josh
 
 Welcome to my profile! I'm a full-stack developer that is based out of California. Talk to me about: 
 * Front-End Development: React, HTML5, CSS3, SASS
