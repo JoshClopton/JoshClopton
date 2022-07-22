@@ -4,6 +4,7 @@ Welcome to my profile! I'm a full-stack developer that is based out of Californi
 * Front-End Development: React, HTML5, CSS3, SASS
 * Back End Development: Express, Node, MySQL
 * Libraries: React-Router-Dom, ReactJS-Popup
+* Collaboration: Jira, Figma, Agile, Scrum, GitFlow
 
 <p align="center">
   <a href="https://skillicons.dev/%22%3E
