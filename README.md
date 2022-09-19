@@ -1,7 +1,6 @@
 ## Hey there, I'm Josh
-
-Welcome to my profile! I'm a full-stack developer that is based out of California. Talk to me about: 
-* Front-End Development: React, HTML5, CSS3, SASS
+I'm a full-stack developer who specializes on the Frontend. Talk to me about: 
+* Front-End Development: React, HTML5, CSS3, SASS, Storybook, 
 * Back End Development: Express, Node, MySQL
 * Libraries: React-Router-Dom, ReactJS-Popup
 * Collaboration: Jira, Figma, Agile, Scrum, GitFlow
