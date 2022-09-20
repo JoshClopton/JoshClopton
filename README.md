@@ -8,7 +8,7 @@ I'm a full-stack developer who specializes on the Frontend. Talk to me about:
 <p align="left">
   <a href="https://skillicons.dev/%22%3E">
     <img src="https://skillicons.dev/icons?i=js,react,typescript,redux,html,css,sass" /><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,git,figma,jira" />
+    <img src="https://skillicons.dev/icons?i=graphql,nodejs,express,mysql,postgres,git,figma,jira" />
   </a>
 </p>
 
