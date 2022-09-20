@@ -1,7 +1,7 @@
 ## Hey there, I'm Josh
 I'm a full-stack developer who specializes on the Frontend. Talk to me about: 
-* Front-End Development: JavaScript, React, TypeScript, HTML5, CSS3, SASS, Storybook
-* Back End Development: Express, Node, MySQL, PostgreSQL, GraphQL
+* Frontend Development: JavaScript, React, TypeScript, HTML5, CSS3, SASS, Storybook
+* Backend Development: Express, Node, MySQL, PostgreSQL, GraphQL
 * Libraries: React-Router-Dom, ReactJS-Popup
 * Collaboration: Jira, Figma, Agile, Scrum, GitFlow
 
