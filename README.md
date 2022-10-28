@@ -7,7 +7,7 @@ I'm a Software Engineer who specializes on the Frontend. Talk to me about:
 
 <p align="left">
   <a href="https://skillicons.dev/%22%3E">
-    <img src="https://skillicons.dev/icons?i=js,react,typescript,redux,chakra-ui,html,css,sass" /><br/>
+    <img src="https://skillicons.dev/icons?i=js,react,typescript,redux,chakra,html,css,sass" /><br/>
     <img src="https://skillicons.dev/icons?i=graphql,nodejs,express,mysql,postgres,git,figma,jira" />
   </a>
 </p>
