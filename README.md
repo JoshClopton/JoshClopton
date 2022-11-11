@@ -2,7 +2,8 @@
 I'm a Software Engineer who specializes on the Frontend. Talk to me about: 
 * Frontend Development: JavaScript, React, TypeScript, Storybook, HTML5, CSS3, SASS
 * Backend Development: Express, Node, MySQL, PostgreSQL, GraphQL
-* Libraries: React-Router-Dom, ReactJS-Popup
+* Libraries: React-Router-Dom, ReactJS-Popup, Chakra-UI
+* Analytics: MixPanel, Sentry, DataDog
 * Collaboration: Jira, Figma, Agile, Scrum, GitFlow
 
 <p align="left">
