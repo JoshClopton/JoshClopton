@@ -5,6 +5,7 @@ I'm a Software Engineer who specializes on the Frontend.
 * Libraries: React-Router-Dom, ReactJS-Popup, Chakra-UI
 * Analytics: MixPanel, Sentry, DataDog
 * Collaboration: Jira, Figma, Agile, Scrum, GitFlow
+* Tools/Development: AWS, Lambda, CodePipeline, Amplify, S3, NGROK
 
 <p align="left">
   <a href="https://skillicons.dev/%22%3E">
