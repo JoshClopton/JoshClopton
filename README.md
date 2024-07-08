@@ -1,6 +1,6 @@
 ## Hey there, I'm Josh
 I'm a Software Engineer who specializes on the Frontend.
-* Frontend Development: JavaScript, React, TypeScript, Redux, Storybook, HTML5, CSS3, SASS
+* Frontend Development: JavaScript, React, TypeScript, Redux, Chakra-UI, HTML5, CSS3, SASS
 * Backend Development: Express, Node, MySQL, PostgreSQL, GraphQL, C#
 * Libraries: React-Router-Dom, ReactJS-Popup, Chakra-UI
 * Analytics: MixPanel, Sentry, DataDog
