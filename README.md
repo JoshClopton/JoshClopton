@@ -1,5 +1,5 @@
 ## Hey there, I'm Josh
-I'm a Software Engineer who specializes on the Frontend.
+I'm a Full Stack Engineer who thrives in React, Node, GraphQL and PostgreSQL.
 * Frontend Development: JavaScript, React, TypeScript, Redux, Chakra-UI, HTML5, CSS3, SASS
 * Backend Development: Express, Node, MySQL, PostgreSQL, GraphQL, C#
 * Libraries: React-Router-Dom, ReactJS-Popup, Chakra-UI
