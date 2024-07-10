@@ -5,7 +5,7 @@ I'm a Full Stack Engineer who thrives in React, Node, GraphQL and PostgreSQL.
 * Libraries: React-Router-Dom, ReactJS-Popup, Chakra-UI
 * Analytics: MixPanel, Sentry, DataDog
 * Collaboration: Jira, Figma, Agile, Scrum, GitFlow
-* Tools/Development: AWS, Lambda, CodePipeline, Amplify, S3, NGROK
+* Tools: AWS, Lambda, CodePipeline, Amplify, S3, NGROK
 
 <p align="left">
   <a href="https://skillicons.dev/%22%3E">
