@@ -1,7 +1,7 @@
 ## Hey there, I'm Josh
 I'm a Full Stack Engineer who thrives in React, Node, GraphQL, PostgreSQL, MySQL and SQLite.
 * Frontend Development: JavaScript, React, TypeScript, Redux, Chakra-UI, HTML5, CSS3, SASS
-* Backend Development: Express, Node, MySQL, PostgreSQL, GraphQL, C#, Prisma,
+* Backend Development:  C#, .NET, Express, Node, MySQL, PostgreSQL, GraphQL, Prisma,
 * Libraries: React-Router-Dom, ReactJS-Popup, Chakra-UI
 * Analytics: MixPanel, Sentry, DataDog
 * Collaboration: Jira, Figma, Agile, Scrum, GitFlow
