@@ -2,7 +2,7 @@
 I'm a Full Stack Engineer who thrives in React, Node, GraphQL, PostgreSQL, MySQL and SQLite.
 * Frontend Development: JavaScript, React, TypeScript, Redux, Chakra-UI, HTML5, CSS3, SASS
 * Backend Development:  C#, .NET, Express, Node, MySQL, PostgreSQL, GraphQL, Prisma,
-* Libraries: React-Router-Dom, ReactJS-Popup, Chakra-UI
+* Libraries: React-Router-Dom, TanStack, Chakra-UI
 * Analytics: MixPanel, Sentry, DataDog
 * Collaboration: Jira, Figma, Agile, Scrum, GitFlow
 * Tools: AWS, Lambda, Docker, CodePipeline, Amplify, S3, NGROK
